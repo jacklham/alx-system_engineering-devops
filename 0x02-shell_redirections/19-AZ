@@ -1,2 +1,2 @@
 #!/bin/bash
-output_str = input_str.replace('A', 'Z').replace('c', 'e')
+tr Ac Ze
